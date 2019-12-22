@@ -4,7 +4,7 @@ import { Restaurant } from 'src/app/models/Restaurant';
 
 @Component({
   selector: 'app-restaurant',
-  templateUrl: './restaurant.component.html'
+  templateUrl: '/restaurant.component.html'
 })
 export class RestaurantComponent implements OnInit {
   @Input() restaurant: Restaurant;
