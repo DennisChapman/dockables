@@ -1,0 +1,152 @@
+	[
+		{
+			"name":"Shem Creek Bar & Grill",
+			"cuisine":"Seafood",
+			"address":"508 Mill Street, Mount Pleasant , SC 29464",
+			"waterway":"Shem Creek",
+			"food_rating":4,
+			"dock_rating":3,
+			"image":"scbg",
+			"url":"https://www.shemcreekbarandgrill.com/"
+		},
+		{
+			"name":"Marina Variety Store Restaurant",
+			"cuisine":"American",
+			"address":"17 Lockwood Drive, Charleston, SC 29401",
+			"waterway":"Ashley River",
+			"food_rating":5,
+			"dock_rating":2,
+			"image":"mvsr",
+			"url":"https://www.varietystorerestaurant.com/"
+		},
+		{
+			"name":"The Boathouse",
+			"cuisine":"Seafood",
+			"address":"101 Palm Blvd., Isle of Palms, SC 29451",
+			"waterway":"Breach Inlet",
+			"food_rating":5,
+			"dock_rating":3,
+			"image":"tb",
+			"url":"https://www.boathouserestaurants.com/"
+		},
+		{
+			"name":"R.B.'s Seafood Restaurant",
+			"cuisine":"Seafood",
+			"address":"97 Church St, Mount Pleasant, SC 29464",
+			"waterway":"Shem Creek",
+			"food_rating":2,
+			"dock_rating":4,
+			"image":"rb",
+			"url":"http://rbsonshemcreek.com/"
+		},
+		{
+			"name":"Vickery's Bar & Grill",
+			"cuisine":"American/Seafood",
+			"address":"1313 Shrimp Boat Lane, Mount Pleasant, SC 29464",
+			"waterway":"Shem Creek",
+			"food_rating":4,
+			"dock_rating":5,
+			"image":"vbg",
+			"url":"http://www.vickerysmtp.com/"
+		},
+		{
+			"name":"Water's Edge",
+			"cuisine":"American/Seafood",
+			"address":"1407 Shrimp Boat Lane, Mount Pleasant, SC 29464",
+			"waterway":"Shem Creek",
+			"food_rating":2,
+			"dock_rating":4,
+			"image":"we",
+			"url":"https://www.waters-edge-restaurant.com/"
+		},
+		{
+			"name":"Wando River Grill",
+			"cuisine":"American",
+			"address":"133 Nautical Lane Mt Pleasant, SC 29466",
+			"waterway":"Wando River",
+			"food_rating":3,
+			"dock_rating":5,
+			"image":"wrg",
+			"url":"http://wandorivergrillsc.com/grill/"
+		},
+		{
+			"name":"Morgan Creek Grill [CLOSED]",
+			"cuisine":"American",
+			"address":"80 41st Ave, Isle of Palms, SC 29451",
+			"waterway":"ICW/Morgan Creek",
+			"food_rating":5,
+			"dock_rating":5,
+			"image":"mcg",
+			"url":"https://www.morgancreekgrill.com/"
+		},
+		{
+			"name":"Red's Icehouse",
+			"cuisine":"Seafood/American",
+			"address":"98 Church St, Mount Pleasant, SC 29464",
+			"waterway":"Shem Creek",
+			"food_rating":3,
+			"dock_rating":4,
+			"image":"ri",
+			"url":"https://www.redsicehouse.com/"
+		},
+		{
+			"name":"Saltwater Cowboys",
+			"cuisine":"Seafood/BBQ",
+			"address":"130 Mill St, Mount Pleasant, SC 29464",
+			"waterway":"Shem Creek",
+			"food_rating":3,
+			"dock_rating":4,
+			"image":"sc",
+			"url":"https://www.saltwater-cowboys.com/"
+		},
+		{
+			"name":"Charleston Crab House",
+			"cuisine":"Seafood",
+			"address":"145 Wappoo Creek Dr, Charleston, SC 29412",
+			"waterway":"Wappoo Creek",
+			"food_rating":3,
+			"dock_rating":4,
+			"image":"cch",
+			"url":"https://charlestoncrabhouse.com/"
+		},
+		{
+			"name":"California Dreaming",
+			"cuisine":"American",
+			"address":"1 Ashley Point Dr, Charleston, SC 29407",
+			"waterway":"Ashley River",
+			"food_rating":5,
+			"dock_rating":5,
+			"image":"cd",
+			"url":"https://californiadreaming.rest/"
+		},
+		{
+			"name":"Bowens Island Restaurant",
+			"cuisine":"Seafood",
+			"address":"1870 Bowens Island Road, Charleston, SC 29412",
+			"waterway":"Folly Creek",
+			"food_rating":4,
+			"dock_rating":3,
+			"image":"bir",
+			"url":"https://bowensisland.com/"
+		},
+		{
+			"name":"Tavern & Table",
+			"cuisine":"American",
+			"address":"100 Church St, Mount Pleasant, SC 29464",
+			"waterway":"Shem Creek",
+			"food_rating":5,
+			"dock_rating":4,
+			"image":"tt",
+			"url":"https://www.tavernandtable.com/"
+		},
+		{
+			"name":"Charleston Harbor Fish House",
+			"cuisine":"Seafood",
+			"address":"32 Patriots Point Rd, Mt Pleasant, SC 29464",
+			"waterway":"Charleston Harbor",
+			"food_rating":5,
+			"dock_rating":3,
+			"image":"fh",
+			"url":"https://charlestonharborfishhouse.com/"
+		}
+	]
