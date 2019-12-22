@@ -5,7 +5,7 @@ import { DockablesComponent } from './components/dockables/dockables.component';
 
 const routes: Routes = [
   {path: '', component: DockablesComponent},
-  {path: '/', component: DockablesComponent},
+  {path: './', component: DockablesComponent},
   {path: 'dockables-ng', component: DockablesComponent}
 ];
 
